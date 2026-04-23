@@ -1,4 +1,4 @@
-# 2D Chemistry Simulator (Work In Progess)
+# 2D Chemistry Simulator
 
 A real-time 2D molecular dynamics simulator built in Python using pygame and numpy. Atoms of H, O, N, and He are drag-and-placed into a simulation box where Lennard-Jones forces, harmonic bond springs, Langevin thermostat noise, and angle constraints govern their motion. Bonds form and break dynamically, molecules are detected in real time via graph traversal, and the HUD displays all recognised chemical species as they appear.
 
